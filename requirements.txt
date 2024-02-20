@@ -22,6 +22,3 @@ largestinteriorrectangle<=0.2.0
 paddleocr<=2.7.0.3
 paddlepaddle<=2.5.2
 loguru<=0.7.2
-git clone https://github.com/ogkalu2/comic-translate
-cd comic-translate
-pip install -r requirements.txt
